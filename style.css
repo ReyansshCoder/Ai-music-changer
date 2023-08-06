@@ -1,0 +1,21 @@
+.heading {
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+
+.Not {
+font-size: 15px;
+color: whitesmoke;
+}
+
+body {
+    background-size: cover;
+}
+
+
+
+canvas{
+    border: 5px solid red;
+   
+}
